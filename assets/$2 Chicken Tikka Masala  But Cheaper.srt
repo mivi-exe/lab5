@@ -1,0 +1,691 @@
+﻿1
+00:00:00,090 --> 00:00:00,923
+- Normally when we order
+
+2
+00:00:00,923 --> 00:00:02,100
+chicken tikka masala, bing
+(cash register chimes)
+
+3
+00:00:02,100 --> 00:00:03,660
+but we don't worry about
+it 'cause it's tastes good.
+
+4
+00:00:03,660 --> 00:00:04,890
+But you can have it possibly better
+
+5
+00:00:04,890 --> 00:00:06,651
+for this that is much cheaper.
+(cash register chimes)
+
+6
+00:00:06,651 --> 00:00:08,238
+(upbeat electronic music)
+
+7
+00:00:08,238 --> 00:00:10,906
+(slots jingle)
+
+8
+00:00:10,906 --> 00:00:13,406
+(coins clink)
+
+9
+00:00:25,929 --> 00:00:26,762
+So I've been feeling
+(gentle piano music)
+
+10
+00:00:26,762 --> 00:00:27,900
+this is gonna be a bit of a challenge,
+
+11
+00:00:27,900 --> 00:00:30,510
+because this is a heavy spice recipe,
+
+12
+00:00:30,510 --> 00:00:31,770
+and spices kind of jack
+
+13
+00:00:31,770 --> 00:00:32,603
+up the price of things.
+(money sack thumps)
+
+14
+00:00:32,603 --> 00:00:34,290
+So not everybody has a spice on hands,
+
+15
+00:00:34,290 --> 00:00:35,130
+they gotta go buy one,
+
+16
+00:00:35,130 --> 00:00:37,470
+and then we're gonna factor
+in the whole bottle, ow.
+
+17
+00:00:37,470 --> 00:00:38,820
+So we're gonna have to delete spices
+
+18
+00:00:38,820 --> 00:00:39,840
+and somehow configure
+
+19
+00:00:39,840 --> 00:00:41,400
+and mechanize this
+(equations bleep)
+
+20
+00:00:41,400 --> 00:00:43,950
+into a fully functioning robot of flavor.
+
+21
+00:00:43,950 --> 00:00:46,290
+I don't know why I'm using mechanization
+
+22
+00:00:46,290 --> 00:00:48,180
+and robotics to describe this,
+
+23
+00:00:48,180 --> 00:00:49,140
+but I know that we can do it.
+
+24
+00:00:49,140 --> 00:00:50,460
+We've never backed down from a challenge.
+
+25
+00:00:50,460 --> 00:00:53,070
+So with all that being said,
+let's make this, shall we?
+
+26
+00:00:53,070 --> 00:00:53,970
+This recipe so fast,
+
+27
+00:00:53,970 --> 00:00:56,310
+you might as well call it
+a got dang, but faster.
+
+28
+00:00:56,310 --> 00:00:57,143
+First, in a large bowl,
+
+29
+00:00:57,143 --> 00:00:58,309
+combine one cup, 240 grams
+(cash register dings)
+
+30
+00:00:58,309 --> 00:00:59,460
+of full fat yogurt,
+
+31
+00:00:59,460 --> 00:01:01,170
+two teaspoons or six grams of kosher salt,
+
+32
+00:01:01,170 --> 00:01:02,130
+1 1/4 tablespoon
+(cash register dings)
+
+33
+00:01:02,130 --> 00:01:03,600
+or 11 grams of garam masala.
+
+34
+00:01:03,600 --> 00:01:05,352
+Oh, it's a fancy spice, Josh, eh.
+
+35
+00:01:05,352 --> 00:01:07,409
+Look, it encapsulates
+all the spices you need,
+
+36
+00:01:07,409 --> 00:01:10,140
+'cause then you don't
+have to buy like 4, 5, 6,
+
+37
+00:01:10,140 --> 00:01:11,400
+however many spices you need.
+(spices bleep)
+
+38
+00:01:11,400 --> 00:01:12,840
+One teaspoon or three grams of paprika,
+
+39
+00:01:12,840 --> 00:01:14,520
+five cloves of garlic, finely chopped,
+
+40
+00:01:14,520 --> 00:01:16,170
+two inch knob of fresh ginger, grated.
+
+41
+00:01:16,170 --> 00:01:17,970
+Mix all it together until
+thoroughly combined.
+
+42
+00:01:17,970 --> 00:01:18,803
+Then cut two pounds
+(cash register dings)
+
+43
+00:01:18,803 --> 00:01:21,120
+or 900 grams of boneless
+and skinless chicken thighs.
+
+44
+00:01:21,120 --> 00:01:23,185
+Pause, look we all know
+chicken thighs are the
+
+45
+00:01:23,185 --> 00:01:24,870
+superior choice here, right?
+(ethereal electronic music)
+
+46
+00:01:24,870 --> 00:01:26,310
+First off, it's cheaper than the breast.
+
+47
+00:01:26,310 --> 00:01:27,240
+Second off, yeah,
+(upbeat electronic music)
+
+48
+00:01:27,240 --> 00:01:28,650
+sure, use breast.
+
+49
+00:01:28,650 --> 00:01:30,510
+But I'm sick of being overjoyed
+
+50
+00:01:30,510 --> 00:01:33,000
+with a delightfully
+flavorful sauce only to bite
+
+51
+00:01:33,000 --> 00:01:33,833
+into a piece
+(Josh chomps)
+
+52
+00:01:33,833 --> 00:01:35,850
+of compressed wood sawdust
+(wood scratches and jingles)
+
+53
+00:01:35,850 --> 00:01:37,500
+like overcooked chicken breast.
+
+54
+00:01:37,500 --> 00:01:38,790
+The thigh will save you from that.
+
+55
+00:01:38,790 --> 00:01:39,623
+So please use it
+
+56
+00:01:39,623 --> 00:01:42,450
+and enjoy the juicy
+tenderness and thank me later.
+
+57
+00:01:42,450 --> 00:01:43,410
+Anyway, mix all that together
+
+58
+00:01:43,410 --> 00:01:45,450
+and allow to sit for 10
+minutes at room temp,
+
+59
+00:01:45,450 --> 00:01:47,190
+but ideally overnight in the fridge.
+
+60
+00:01:47,190 --> 00:01:48,720
+Now get yourself a large saute pan
+
+61
+00:01:48,720 --> 00:01:50,335
+or some sort of a large and deep skillet.
+
+62
+00:01:50,335 --> 00:01:51,810
+You could also use a small pot.
+
+63
+00:01:51,810 --> 00:01:54,120
+Look, this is the only cooking
+vessel you need to use here.
+
+64
+00:01:54,120 --> 00:01:56,220
+So you know, be kind of
+choosy, but it's fine.
+
+65
+00:01:56,220 --> 00:01:57,270
+Add just enough vegetable oil
+(cash register dings)
+
+66
+00:01:57,270 --> 00:01:58,260
+to coat the bottom of the pan.
+
+67
+00:01:58,260 --> 00:02:00,150
+Heat over medium high
+until nearly smoking.
+
+68
+00:02:00,150 --> 00:02:01,650
+Then add all your chicken in batches
+
+69
+00:02:01,650 --> 00:02:02,670
+and sear for two to three minutes
+
+70
+00:02:02,670 --> 00:02:04,350
+per side so you get some nice browning.
+
+71
+00:02:04,350 --> 00:02:05,183
+Don't get all like, "Oh,
+
+72
+00:02:05,183 --> 00:02:06,270
+"gotta cook the chicken
+all the way through."
+
+73
+00:02:06,270 --> 00:02:07,230
+It's gonna get cooked later.
+
+74
+00:02:07,230 --> 00:02:08,970
+So once everything's seared,
+remove all your chicken.
+
+75
+00:02:08,970 --> 00:02:10,200
+Add a touch more oil if needed.
+
+76
+00:02:10,200 --> 00:02:11,100
+Lower the heat to medium.
+
+77
+00:02:11,100 --> 00:02:13,680
+Add a mix of one large
+yellow onion, sliced,
+
+78
+00:02:13,680 --> 00:02:15,480
+a 2" knob of ginger, thinly sliced,
+
+79
+00:02:15,480 --> 00:02:16,313
+three cloves of garlic,
+(cash register dings)
+
+80
+00:02:16,313 --> 00:02:17,310
+also thinly sliced,
+
+81
+00:02:17,310 --> 00:02:18,150
+Seasoned lightly with salt
+
+82
+00:02:18,150 --> 00:02:20,310
+to draw that water out, it's
+gonna help it cook faster,
+
+83
+00:02:20,310 --> 00:02:21,750
+and saute for three to five minutes
+
+84
+00:02:21,750 --> 00:02:23,580
+or until all the vegetables are softened.
+
+85
+00:02:23,580 --> 00:02:25,530
+Then add in one teaspoon
+or three grams of paprika,
+
+86
+00:02:25,530 --> 00:02:27,270
+one teaspoon or three
+grams of cayenne powder,
+
+87
+00:02:27,270 --> 00:02:28,980
+one tablespoon or nine
+grams of garam masala,
+
+88
+00:02:28,980 --> 00:02:30,840
+two teaspoons or nine
+grams of granulated sugar,
+
+89
+00:02:30,840 --> 00:02:32,875
+and saute until so fragrant you can barely
+
+90
+00:02:32,875 --> 00:02:34,860
+just got dang help yourself.
+
+91
+00:02:34,860 --> 00:02:35,700
+Then add a 15 ounce
+(cash register dings)
+
+92
+00:02:35,700 --> 00:02:38,310
+or 425 gram can of crushed tomatoes.
+
+93
+00:02:38,310 --> 00:02:39,660
+Stir that together and let it reduce
+
+94
+00:02:39,660 --> 00:02:40,493
+for five minutes.
+(bubble pops)
+
+95
+00:02:40,493 --> 00:02:42,060
+And this next step is optional.
+
+96
+00:02:42,060 --> 00:02:43,950
+I don't wanna see you in the
+comments complaining, oh,
+
+97
+00:02:43,950 --> 00:02:45,060
+you don't have a blender.
+
+98
+00:02:45,060 --> 00:02:47,070
+Look, you'll literally be
+fine if you don't have one.
+
+99
+00:02:47,070 --> 00:02:48,330
+Just don't blend it anyway.
+(text slaps)
+
+100
+00:02:48,330 --> 00:02:50,340
+Once reduced and all your
+vegetables are super soft,
+
+101
+00:02:50,340 --> 00:02:51,720
+pour all that into a blender and blend
+
+102
+00:02:51,720 --> 00:02:54,480
+on high speed until as smooth
+as physically possible.
+
+103
+00:02:54,480 --> 00:02:55,620
+Then place it back into the pan
+
+104
+00:02:55,620 --> 00:02:56,940
+or pot or whatever the hell you're using.
+
+105
+00:02:56,940 --> 00:02:57,870
+Bring it back to a simmer.
+
+106
+00:02:57,870 --> 00:02:58,800
+Reduce the heat to low.
+
+107
+00:02:58,800 --> 00:03:00,390
+Add all of your cooked chicken and simmer,
+
+108
+00:03:00,390 --> 00:03:01,650
+stirring occasionally for 10 minutes
+
+109
+00:03:01,650 --> 00:03:03,450
+or until the chicken's cooked beautifully.
+
+110
+00:03:03,450 --> 00:03:05,220
+Then stir in one cup, 240 milliliters
+
+111
+00:03:05,220 --> 00:03:06,180
+of heavy whipping cream,
+
+112
+00:03:06,180 --> 00:03:07,500
+and reduce for seven
+to eight more minutes,
+
+113
+00:03:07,500 --> 00:03:09,300
+stirring occasionally or until thickened.
+
+114
+00:03:09,300 --> 00:03:10,680
+There's no other way to describe this
+
+115
+00:03:10,680 --> 00:03:12,180
+other than voluptuous.
+
+116
+00:03:12,180 --> 00:03:13,320
+Now, seasoned taste with salt
+
+117
+00:03:13,320 --> 00:03:14,610
+as needed and serve next
+
+118
+00:03:14,610 --> 00:03:18,390
+to a nice big old chonker
+of plain steamed rice.
+
+119
+00:03:18,390 --> 00:03:19,860
+Optionally, you can garnish with cilantro,
+
+120
+00:03:19,860 --> 00:03:21,180
+but really you don't need the expenditure
+
+121
+00:03:21,180 --> 00:03:22,013
+if you don't want to.
+
+122
+00:03:22,013 --> 00:03:23,280
+And look, I'll be honest,
+this looks beautiful,
+
+123
+00:03:23,280 --> 00:03:24,660
+but I did have to remove a couple
+
+124
+00:03:24,660 --> 00:03:25,800
+of things that I'd usually put
+
+125
+00:03:25,800 --> 00:03:26,820
+in here to keep the cost down,
+
+126
+00:03:26,820 --> 00:03:28,110
+'cause it but cheaper.
+(text sparkles)
+
+127
+00:03:28,110 --> 00:03:29,250
+That's why we use garam masala.
+
+128
+00:03:29,250 --> 00:03:30,810
+It has the majority of
+the flavors that you need,
+
+129
+00:03:30,810 --> 00:03:32,070
+but if you want it even better,
+
+130
+00:03:32,070 --> 00:03:33,390
+and you happen to have it on hand,
+
+131
+00:03:33,390 --> 00:03:35,070
+then I would suggest adding one teaspoon
+
+132
+00:03:35,070 --> 00:03:36,450
+of ground cumin to the spice mix.
+
+133
+00:03:36,450 --> 00:03:38,400
+But again, only if you have it on hand.
+
+134
+00:03:38,400 --> 00:03:39,660
+That being said, can this still taste
+
+135
+00:03:39,660 --> 00:03:42,810
+as good despite that for
+the sake of our wallets?
+
+136
+00:03:42,810 --> 00:03:43,643
+Let's find out.
+
+137
+00:03:43,643 --> 00:03:45,240
+So we have chicken tikka masala
+
+138
+00:03:45,240 --> 00:03:47,010
+for this price right here.
+(cash register dings)
+
+139
+00:03:47,010 --> 00:03:49,163
+Let's just taste the damn thing.
+
+140
+00:03:49,163 --> 00:03:50,100
+(metal clangs)
+
+141
+00:03:50,100 --> 00:03:51,480
+Woo, wow, this is great.
+
+142
+00:03:51,480 --> 00:03:52,500
+This is equally as good
+
+143
+00:03:52,500 --> 00:03:54,060
+as our other chicken tikka masala recipe.
+
+144
+00:03:54,060 --> 00:03:55,290
+I almost don't want to say it,
+
+145
+00:03:55,290 --> 00:03:57,210
+'cause all the people are
+like, yeah, cost benefit.
+
+146
+00:03:57,210 --> 00:03:58,890
+I'm never gonna make the other one again,
+
+147
+00:03:58,890 --> 00:04:00,840
+but this one is just as good.
+(metal clangs)
+
+148
+00:04:00,840 --> 00:04:03,210
+Even with the reduction in
+spices, you get that strong,
+
+149
+00:04:03,210 --> 00:04:05,550
+deeply flavored spice right to the mouth.
+
+150
+00:04:05,550 --> 00:04:06,900
+It's creamy, but not too creamy.
+
+151
+00:04:06,900 --> 00:04:09,900
+Mostly tomato-y, a little
+bit tart, a little bit spicy,
+
+152
+00:04:09,900 --> 00:04:11,970
+and you got that umami
+from the chicken fat.
+
+153
+00:04:11,970 --> 00:04:13,350
+If I ordered this chicken tikka masala
+
+154
+00:04:13,350 --> 00:04:14,820
+and they gave it to me for $17,
+
+155
+00:04:14,820 --> 00:04:15,653
+I'd be like, "Okay,
+
+156
+00:04:15,653 --> 00:04:16,486
+"but it was only this."
+(cash register dings)
+
+157
+00:04:16,486 --> 00:04:19,149
+But you wanna know what
+else is cheaper, B-roll.
+
+158
+00:04:19,149 --> 00:04:22,649
+(upbeat electronic music)
+

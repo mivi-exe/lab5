@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Lab 5 | Chicken Tikka Masala</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <header>
+            <h1>Chicken Tikka Masala</h1>
+            <h2>- BUT CHEAPER -</h2>
+        </header>
+        <main>
+
+        <video width= "90%" controls id="vid" poster="assets/poster_cheap.png">
+            <source src="assets/tikka.mp4" type="video/mp4">
+            <source src="assets/tikka.ogg" type="video/ogg">
+            <p>Your browser does not support the video tag. Visit the link for the
+            <a href="https://www.youtube.com/watch?v=O5l1SMavklI">video</a></p>
+            <track label="English" kind="subtitles" srclang="en" src="assets/$2 Chicken Tikka Masala  But Cheaper.vtt"
+            default />
+        </video> 
+
+        <section id="extra_controls">
+            <img src="assets/15minus.png" onclick="reverse_15()">
+            <img src="assets/15add.png" onclick="skip_15()">
+            <img id="cheap" src="assets/upload_cheap.png" onclick="load_expensive()">
+            <img id="expensive" src="assets/upload_expensive.png" onclick="load_cheap()">
+            <img id="slow" src="assets/slow.png" onclick="slow_down()">
+            <img id="slow_active" src="assets/slow_active.png" onclick="normal_speed_slow()">
+            <img id="fast" src="assets/rabbit.png" onclick="speed_up()">
+            <img id="fast_active" src="assets/rabbit_active.png" onclick="normal_speed_fast()">
+        </section>  
+
+        <section id="other_video">
+            <h3>Expensive Recipe Currently Playing</h3>
+            <a href="https://www.joshuaweissman.com/post/chicken-tikka-masala"><p>Full Recipe</p></a>
+        </section>
+
+        <a href="https://www.joshuaweissman.com/all-recipes" id="recipe"><h3>More Recipes</h3></a>
+
+        <a href="https://www.joshuaweissman.com/all-recipes" id="youtube"><h3>YouTube Channel</h3></a>
+
+        <a href="https://www.joshuaweissman.com/book"id="book"><h3>Buy The Book</h3></a>
+        
+        <section id="recipe_card">
+            <section id ="chicken">
+                <h2>Chicken</h2>
+                <section class="in-ig">
+                    <section id="ingredients_chicken">
+                        <h3>Ingredients:</h3>
+                        <ul>
+                            <li>1 cup (240g) full-fat yogurt</li>
+                            <li>2 teaspoons (6g) kosher salt</li>
+                            <li>1.25 tablespoons (11g) garam masala</li>
+                            <li>1 teaspoon (3g) paprika </li>
+                            <li>5 cloves garlic, finely chopped</li>
+                            <li>2 inch (5cm) knob of fresh ginger, grated</li>
+                            <li>2 lbs (907g) boneless skinless chicken thighs, cut into 1” pieces</li>
+                        </ul>
+                    </section>
+
+                    <section id="instructions_chicken">
+                        <h3 class="instructions">Instructions:</h3>
+                        <ul>
+                            <li>In a medium-sized bowl, add yogurt, salt, garam masala, paprika, garlic, and ginger; whisk to combine. Next, add chicken to your bowl, toss to coat thoroughly, and marinate for 10 minutes or overnight in the fridge</li>
+                            <li>Set a 10-inch pan over medium-high heat, and add enough vegetable oil to coat the bottom of the pan. Once hot and nearly smoking, add all your chicken in batches and sear for 2 - 3 minutes per side until nicely browned on all edges. Remove chicken.</li>
+                        </ul>
+                    </section>
+                </section>
+            </section>
+
+            <section id="sauce">
+                <h2>Sauce</h2>
+                
+                <section class="in-ig">
+                    <section id="ingredients_sauce">
+                        <h3>Ingredients:</h3>
+                        <ul>
+                            <li>3 tablespoons (24g) vegetable oil</li>
+                            <li>1 large yellow onion, thinly sliced</li>
+                            <li>2-inch (5cm) knob ginger, grated, thinly sliced</li>
+                            <li>3 cloves garlic, thinly sliced</li>
+                            <li>1 teaspoon (3g) paprika</li>
+                            <li>1 teaspoon (3g) cayenne powder</li>
+                            <li>1 tablespoon (9g) garam masala</li>
+                            <li>1 tablespoon (24g) unsalted butter</li>
+                            <li>2 teaspoons (9g) sugar</li>
+                            <li>15 oz (425g) can of crushed tomatoes</li>
+                            <li>1 cup (237ml) heavy cream</li>
+                            <li>1/3 cup (5g) fresh cilantro leaves</li>
+                            <li>salt to taste</li>
+                        </ul>
+                    </section>
+
+                    <section id="instructions_sauce">
+                        <h3 class="instructions">Instructions:</h3>
+                        <ul>
+                            <li>Add additional oil if needed, and lower the heat to medium. Add onion, ginger, and garlic. Season lightly with salt, and saute for 3 - 5 minutes, stirring occasionally, until softened. Next, add paprika, cayenne, garam masala, and sugar; saute until fragrant, about 30 seconds. </li>
+                            <li>Add crushed tomatoes, stir and reduce for 5 minutes. Optionally, pour into a blender and blend on high speed until as smooth as possible. Place back in the pot, reduce the heat to low, add all your chicken, and simmer, stirring occasionally, for 10 minutes or until the chicken is thoroughly cooked and the sauce is reduced. </li>
+                            <li>Stir in heavy cream and reduce for 7 - 8 more minutes or until the sauce is thick and velvety — adjust salt levels if necessary. Serve immediately with steamed white rice. Optionally garnish with cilantro.</li>
+                        </ul>
+                    </section>
+                </section>
+            </section>
+        </section>
+
+        </main>
+
+        <footer>
+            <p>I own nothing on this website. I like to cook. I like Joshua. This is a school project, that's all :)</p>
+        </footer>
+        
+        <script src="index.js" async defer></script>
+    </body>
+</html>
