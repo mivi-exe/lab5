@@ -4,7 +4,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Lab 5 | Chicken Tikka Masala</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="main.css" type="text/css">
     </head>
     <body>
         <header>
@@ -14,7 +14,7 @@
         <main>
 
         <video width= "90%" controls id="vid" poster="assets/poster_cheap.png">
-            <source src="assets/tikka.mp4" type="video/mp4">
+            <source id="src1" src="assets/tikka.mp4" type="video/mp4">
             <source src="assets/tikka.ogg" type="video/ogg">
             <p>Your browser does not support the video tag. Visit the link for the
             <a href="https://www.youtube.com/watch?v=O5l1SMavklI">video</a></p>
@@ -23,14 +23,14 @@
         </video> 
 
         <section id="extra_controls">
-            <img src="assets/15minus.png" onclick="reverse_15()">
-            <img src="assets/15add.png" onclick="skip_15()">
-            <img id="cheap" src="assets/upload_cheap.png" onclick="load_expensive()">
-            <img id="expensive" src="assets/upload_expensive.png" onclick="load_cheap()">
-            <img id="slow" src="assets/slow.png" onclick="slow_down()">
-            <img id="slow_active" src="assets/slow_active.png" onclick="normal_speed_slow()">
-            <img id="fast" src="assets/rabbit.png" onclick="speed_up()">
-            <img id="fast_active" src="assets/rabbit_active.png" onclick="normal_speed_fast()">
+            <img src="assets/15minus.png" onclick="reverse_15()" height="27.6" width="27.6">
+            <img src="assets/15add.png" onclick="skip_15()"height="27.6" width="27.6">
+            <img id="cheap" src="assets/upload_cheap.png" onclick="load_expensive()" height="27.6" width="27.6">
+            <img id="expensive" src="assets/upload_expensive.png" onclick="load_cheap()" height="27.6" width="27.6">
+            <img id="slow" src="assets/slow.png" onclick="slow_down()" height="27.6" width="27.6">
+            <img id="slow_active" src="assets/slow_active.png" onclick="normal_speed_slow()" height="27.6" width="27.6">
+            <img id="fast" src="assets/rabbit.png" onclick="speed_up()" height="27.6" width="27.6">
+            <img id="fast_active" src="assets/rabbit_active.png" onclick="normal_speed_fast()" height="27.6" width="27.6">
         </section>  
 
         <section id="other_video">

@@ -157,10 +157,6 @@ main  {
     display: none;
 }
 
-#extra_controls img {
-    height: 27.6px;
-    width: 27.6px;
-}
 
 #book, #recipe, #youtube {
     background-image: url(assets/food.jpg);
