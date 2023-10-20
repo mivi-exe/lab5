@@ -157,6 +157,11 @@ main  {
     display: none;
 }
 
+#extra_controls img {
+    height: 27.6px;
+    width: 27.6px;
+}
+
 #book, #recipe, #youtube {
     background-image: url(assets/food.jpg);
     margin-top: 2em;
@@ -288,6 +293,9 @@ footer {
         margin-left: 0.5em;
     }
 
+    #instructions_chicken, #instructions_sauce {
+        margin-left: 1.2em;
+    }
 }
 
 @media (min-width: 2000px) {

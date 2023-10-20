@@ -41,7 +41,7 @@ function load_expensive() {
     other_video.classList.add("fade-in");
     video.classList.add("img-fade-in");
     video.setAttribute('poster', 'assets/poster_expensive.png');
-    video.setAttribute('src', "assets/tikka_expensive.mp4");
+    video.setAttribute('src', "assets/tikka_expensive.mp4", "assets/tikka_expensive.ogg");
     setTimeout(function() {
         video.classList.remove("img-fade-in");
     }, 1500);
@@ -56,7 +56,8 @@ function load_cheap() {
     setTimeout(function() {
         other_video.style.display = "none";
     }, 500);
-    video.setAttribute('src', "assets/tikka.mp4");
+    video.setAttribute('src', "assets/tikka.mp4", "assets/tikka.ogg");
+    video.settAttribute
     video.setAttribute('poster', 'assets/poster_cheap.png');
     video.classList.add("img-fade-in");
     setTimeout(function() {
